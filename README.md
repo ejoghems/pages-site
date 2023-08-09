@@ -1,5 +1,5 @@
 # sample github-pages site
 
-Just some texts to see a page is created
+Uses Github actions to generate a Hugo site and publish it to Github pages.
 
-And some more
+No content, just a sample to see how to make this work.
