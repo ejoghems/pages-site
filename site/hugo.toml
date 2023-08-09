@@ -1,0 +1,4 @@
+baseURL = 'http://ejoghems.github.io/pages-site/'
+languageCode = 'en-us'
+title = 'Sample Hugo Site with GH pages'
+theme = 'hugo-PaperMod-7.0'
